@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "roky",
+        "email": "roky@gmail.com",
+        "review": "The solution was amazing",
+        "img": "https://i.ibb.co/WxV8YPZ/pic2.jpg",
+        "ratings": "4"
+    },
+    {
+        "id": 2,
+        "name": "naim",
+        "email": "roky@gmail.com",
+        "review": "It was amazing and fast",
+        "img": "https://i.ibb.co/Xkcb1Rw/g4.jpg",
+        "ratings": "4.5"
+    },
+    {
+        "id": 3,
+        "name": "durjoy",
+        "email": "roky@gmail.com",
+        "review": "The solution was awesome",
+        "img": "https://i.ibb.co/NVsWL1d/pic3.jpg",
+        "ratings": "4.8"
+    },
+    {
+        "id": 4,
+        "name": "sakhawat",
+        "email": "roky@gmail.com",
+        "review": "Thank you for solving the problem",
+        "img": "https://i.ibb.co/zHn3BR8/pic4.jpg",
+        "ratings": "5"
+    }
+]
